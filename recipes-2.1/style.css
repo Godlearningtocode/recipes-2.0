@@ -1,0 +1,17 @@
+* {
+    background-color: rgb(255,245,238);
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(220,20,60);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(220,20,60);
+}
+
+img {
+    display: inline-block;
+    width: 800px;
+    height: auto;
+    text-align: center;
+}
