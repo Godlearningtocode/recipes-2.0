@@ -1,6 +1,7 @@
 h1 {
     color: rgb(220,20,60);
     text-align: center;
+    margin: 100px;
 }
 
 * {
@@ -12,4 +13,8 @@ h1 {
 .Recipes {
     color: rgb(220,20,60);
     justify-items: center;
+}
+
+a {
+    display: block;
 }
